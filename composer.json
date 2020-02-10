@@ -1,0 +1,13 @@
+{
+    "name": "cesnet/php-device-cookies",
+    "description": "Implementation of Device Cookies in PHP",
+    "authors": [
+        {
+            "name": "Pavel Břoušek",
+            "email": "brousek@ics.muni.cz"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}

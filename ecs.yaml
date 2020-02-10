@@ -1,0 +1,8 @@
+parameters:
+    sets:
+      - 'clean-code'
+      - 'common'
+      - 'psr12'
+    skip:
+        PhpCsFixer\Fixer\Operator\NotOperatorWithSuccessorSpaceFixer: ~
+services:
